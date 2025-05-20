@@ -23,7 +23,7 @@
 - Learn to write clean, maintainable code
 
 ### 🚧 Projects I'm working on:
-- [Odin Recipes](https://github.com/yourusername/odin-recipes) – my first HTML & CSS project. Keeping it up to show how I started and how I’ll grow.
+- [Odin Recipes](https://github.com/mcarmencamacho/odin-recipes/) – my first HTML & CSS project. Keeping it up to show how I started and how I’ll grow.
 - A simple travel app that helps visitors find meaningful spots and hidden gems (getting to this slowly but steadyly!)
 
 ## 🧰 Tools & Technologies I'm learning and/or using:
